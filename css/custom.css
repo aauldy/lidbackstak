@@ -1,0 +1,25 @@
+.margin-middle {
+  margin: 0 auto 0 auto;
+}
+
+.reference-icon {
+  font-size: 3em;
+  text-align: center;
+  color: #3273dc;
+}
+
+.hero {
+  background-image: url("../img/heroo.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.is-white-text {
+  color: #ffffff !important;
+}
+
+.sub-hero {
+  background-color: #3273dc;
+}
